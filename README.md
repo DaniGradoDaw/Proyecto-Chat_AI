@@ -128,8 +128,10 @@ Cada mensaje se crea con estado `pending`. Las Cloud Functions lo procesan y cam
 
 ---
 
-## Autor
+## Autores
 
 **Daniel** — Desarrollo de Aplicaciones Web (DAW)
+**Alfonso** — Desarrollo de Aplicaciones Web (DAW)
+**Alejandro** — Programador Senior
 
 [![GitHub](https://img.shields.io/badge/GitHub-DaniGradoDaw-181717?style=flat-square&logo=github)](https://github.com/DaniGradoDaw)
